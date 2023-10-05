@@ -1,0 +1,14 @@
+Prod defect one.
+-----
+<ST,`A promotion on your account is expiring next month and your promotion credit will also be revised. As a result, effective with your next bill, there will be no more than a $60.00 increase to your recurring monthly bill before taxes and fees. We want you to know that we remain laser`,45><CW><ST,`-`,45><CW><ST,`focused on meeting your business needs and we promise to continue to deliver the best and most innovative products and services. Please refer to `,45><SUL><ST,`www.`,45><EUL><CW><ST,`optimumbusiness.com`,45><CW><ST,` for a complete listing of the most current rates.`,45><NL>
+-----
+
+
+<ST,`A promotion on your account is expiring next month and your promotion credit will also be revised. As a result, effective with your next bill, there will be no more than a $60.00 increase to your recurring monthly bill before taxes and fees. We want you to know that we remain laser-focused on meeting your business needs and we promise to continue to deliver the best and most innovative products and services. Please refer to`,45><CW><ST,` `,45><SUL><ST,`ww`,45><EUL><CW><ST,`w.`,45><NL><ST,`optimumbusiness.com`,45><CW><ST,` `,45><ST,`for`,45><CW><ST,` `,45><ST,`a complete listing of the most current rates.`,45><NL>
+
+<ST,`A promotion on your account is expiring next month and your promotion credit will also be revised. As a result, effective with your next bill, there will be no more than a $60.00 increase to your recurring monthly bill before taxes and fees. We want you to know that we remain laser-focused on meeting your business needs and we promise to continue to deliver the best and most innovative products and services. Please refer `,45><NL><SUL><ST,`optimumbusiness.com`,45><EUL><CW><ST,` `,45><ST,`for`,45><CW><ST,` `,45><ST,`a complete listing of the most current rates.`,45><NL>
+
+-----
+Closest to PROD - Happens with a compination of deleting text, readding it and highlighting these sections at different order.
+<ST,`A promotion on your account is expiring next month and your promotion credit will also be revised. As a result, effective with your next bill, there will be no more than a $60.00 increase to your recurring monthly bill before taxes and fees. We want you to know that we remain laser-focused on meeting your business needs and we promise to continue to deliver the best and most innovative products and services. Please refer `,45><ST,`to `,45><SUL><ST,`www.`,45><EUL><CW><ST,`optimumbusiness.com`,45><CW><ST,` `,45><ST,`for`,45><CW><ST,` `,45><ST,`a complete listing of the most current rates.`,45><NL>
+------
